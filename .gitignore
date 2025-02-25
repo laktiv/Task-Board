@@ -26,3 +26,5 @@ data.json
 tasks.json
 
 scripts/copy-files-plugin.mjs
+styles.css
+package.json

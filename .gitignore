@@ -24,3 +24,5 @@ MyStuff/
 docs/MyReadme.md
 data.json
 tasks.json
+
+scripts/copy-files-plugin.mjs
